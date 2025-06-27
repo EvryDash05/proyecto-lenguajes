@@ -1,1 +1,1 @@
-env FLASK_APP=src/app.py FLASK_RUN_PORT=8000 FLASK_RUN_HOST=0.0.0.0 flask run
+env FLASK_APP=src/api/app.py FLASK_RUN_PORT=8000 FLASK_RUN_HOST=0.0.0.0 flask run
